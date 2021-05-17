@@ -1,0 +1,1 @@
+g++ Activity.cpp Activity.h ActivityList.cpp ActivityList.h Bucket.cpp Bucket.h BucketList.cpp BucketList.h DateAndTime.cpp DateAndTime.h ListOfBuckets.cpp ListOfBuckets.h Notification.cpp Notification.h NotificationStructure.cpp NotificationStructure.h User.cpp User.h -o a
